@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **aashishbibyan007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mqmKcLqfUfGSHRDpidZitn7V_RYfwuW2/view?usp=sharing](https://drive.google.com/file/d/1mqmKcLqfUfGSHRDpidZitn7V_RYfwuW2/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashish_bibyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_bibyan" height="30" width="40" /></a>
