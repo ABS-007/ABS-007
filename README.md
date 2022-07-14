@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashish Bibyan</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A 3rd year UnderGrad Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abs-007&label=Profile%20views&color=0e75b6&style=flat" alt="abs-007" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abs-007" alt="abs-007" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/ashish_bibyan" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_bibyan?logo=twitter&style=for-the-badge" alt="ashish_bibyan" /></a> </p>
+
+- 🌱 I’m currently learning **C++,Linux & Flutter**
+
+- 📫 How to reach me **aashishbibyan007@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mqmKcLqfUfGSHRDpidZitn7V_RYfwuW2/view?usp=sharing](https://drive.google.com/file/d/1mqmKcLqfUfGSHRDpidZitn7V_RYfwuW2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
