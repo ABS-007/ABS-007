@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abs-007&label=Profile%20views&color=0e75b6&style=flat" alt="abs-007" /> </p>
 
-- 🌱 I’m currently learning **C++,Linux & Flutter**
+- 💬 Ask me about **C++ & Linux**
 
 - 📫 How to reach me **aashishbibyan007@gmail.com**
 
