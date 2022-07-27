@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Bibyan</h1>
-<h3 align="center">A 3rd year UnderGrad Computer Science Student from India</h3>
+<h3 align="center">A 3rd year Under-grad Computer Science Engineering Student.</h3>
 <img align= "right" alt="coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abs-007&label=Profile%20views&color=0e75b6&style=flat" alt="abs-007" /> </p>
 
