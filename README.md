@@ -3,7 +3,7 @@
 <img align= "right" alt="coding" width="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abs-007&label=Profile%20views&color=0e75b6&style=flat" alt="abs-007" /> </p>
 
-- 💬 Ask me about **C++ & Linux**
+- 💬 Ask me about **C++, Flutter & Linux**
 
 - 📫 How to reach me **aashishbibyan007@gmail.com**
 
